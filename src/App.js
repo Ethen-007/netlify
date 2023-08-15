@@ -7,11 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
-          Hello there I'm potter
+          Hello there I'm Harry Potter
         </h1>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.duolingo.com"
           target="_blank"
           rel="noopener noreferrer"
         >
