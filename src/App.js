@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
 
-          Hello There
+          Hello There I'm Harry
         </h1>
         <p>Wanna learn new languages follow the link below</p>
         <a
