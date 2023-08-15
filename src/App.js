@@ -7,10 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>
-
-          Hello There I'm Harry
+          Hello there I'm Harry Potter
         </h1>
-        <p>Wanna learn new languages follow the link below</p>
         <a
           className="App-link"
           href="https://www.duolingo.com"
